@@ -1,7 +1,7 @@
 # LINE_Simple_Beacon_ESP32
 Arduino code for LINE Simple Beacon work with ESP32
 
-This is fixed version of original source
+This is fixed version of original source from
 https://engineering.linecorp.com/ja/blog/detail/149/?fbclid=IwAR19FZud8YY5wNpAYfeQ9gvV3DI6bG8xOb95T8dFc8IkR6E6XM12EWUN4DI
 
 FIXED
